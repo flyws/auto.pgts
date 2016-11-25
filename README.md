@@ -4,4 +4,4 @@ This is an automated version of the manual ARIMA time-series analysis done by Pr
 ## Manual is provided
 Due to the amount of information provided in this function, a very detailed instruction pdf file is also uploaded along the way to help people who are interested gain a better understanding of how this function is like.
 
-Please download the manual file to take a deeper look at the way to use this automated function.
+Please download the manual file to take a deeper look at the way to use this automated and hands-free ARIMA analyzing process.
